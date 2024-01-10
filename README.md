@@ -14,3 +14,5 @@
 
 
 
+#### GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=johnnyghost&theme=dracula&hide_border=true)<br/>
